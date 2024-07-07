@@ -11,11 +11,4 @@ okay so the tasts I chose are
   I will be using some ML algorithms that can help in improving the classification and choosing one model as final for the submission 
 
 
-  THINGS TO REMEMBER RELATE TO THIS PROJECT : 
-  a. The spams tend to be longer than normal emails/ texts
-  
-
-
-   
-3. Credit card fraud detection:
    
